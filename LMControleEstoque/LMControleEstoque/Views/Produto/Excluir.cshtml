@@ -1,0 +1,16 @@
+﻿@model LMControleEstoque.Models.Produto
+
+@{
+    ViewData["Title"] = "Excluir Produto";
+}
+
+<h1 class="display-4 mb-3">Excluir Produto</h1>
+<hr />
+
+<div>
+    <p>Você tem certeza de que deseja excluir o produto <strong>@Model.Nome</strong>?</p>
+    <form asp-action="ConfirmarExclusao" asp-route-id="@Model.Id" method="post">
+        <button type="submit" class="btn btn-danger">Confirmar Exclusão</button>
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancelar</button>
+    </form>
+</div>

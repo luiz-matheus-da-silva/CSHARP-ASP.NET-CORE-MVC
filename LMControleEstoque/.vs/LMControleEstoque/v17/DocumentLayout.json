@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\luizm\\Documents\\PENDRIVE\\projetos\\C#\\LMControleEstoque\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F08200C6-D7B2-4A91-882A-48D0B35EF26E}|LMControleEstoque\\LMControleEstoque.csproj|d:\\users\\luizm\\documents\\pendrive\\projetos\\c#\\lmcontroleestoque\\lmcontroleestoque\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08200C6-D7B2-4A91-882A-48D0B35EF26E}|LMControleEstoque\\LMControleEstoque.csproj|solutionrelative:lmcontroleestoque\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08200C6-D7B2-4A91-882A-48D0B35EF26E}|LMControleEstoque\\LMControleEstoque.csproj|d:\\users\\luizm\\documents\\pendrive\\projetos\\c#\\lmcontroleestoque\\lmcontroleestoque\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08200C6-D7B2-4A91-882A-48D0B35EF26E}|LMControleEstoque\\LMControleEstoque.csproj|solutionrelative:lmcontroleestoque\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08200C6-D7B2-4A91-882A-48D0B35EF26E}|LMControleEstoque\\LMControleEstoque.csproj|d:\\users\\luizm\\documents\\pendrive\\projetos\\c#\\lmcontroleestoque\\lmcontroleestoque\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F08200C6-D7B2-4A91-882A-48D0B35EF26E}|LMControleEstoque\\LMControleEstoque.csproj|solutionrelative:lmcontroleestoque\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08200C6-D7B2-4A91-882A-48D0B35EF26E}|LMControleEstoque\\LMControleEstoque.csproj|d:\\users\\luizm\\documents\\pendrive\\projetos\\c#\\lmcontroleestoque\\lmcontroleestoque\\views\\produto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F08200C6-D7B2-4A91-882A-48D0B35EF26E}|LMControleEstoque\\LMControleEstoque.csproj|solutionrelative:lmcontroleestoque\\views\\produto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08200C6-D7B2-4A91-882A-48D0B35EF26E}|LMControleEstoque\\LMControleEstoque.csproj|d:\\users\\luizm\\documents\\pendrive\\projetos\\c#\\lmcontroleestoque\\lmcontroleestoque\\views\\produto\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F08200C6-D7B2-4A91-882A-48D0B35EF26E}|LMControleEstoque\\LMControleEstoque.csproj|solutionrelative:lmcontroleestoque\\views\\produto\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08200C6-D7B2-4A91-882A-48D0B35EF26E}|LMControleEstoque\\LMControleEstoque.csproj|d:\\users\\luizm\\documents\\pendrive\\projetos\\c#\\lmcontroleestoque\\lmcontroleestoque\\views\\produto\\excluir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F08200C6-D7B2-4A91-882A-48D0B35EF26E}|LMControleEstoque\\LMControleEstoque.csproj|solutionrelative:lmcontroleestoque\\views\\produto\\excluir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08200C6-D7B2-4A91-882A-48D0B35EF26E}|LMControleEstoque\\LMControleEstoque.csproj|d:\\users\\luizm\\documents\\pendrive\\projetos\\c#\\lmcontroleestoque\\lmcontroleestoque\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F08200C6-D7B2-4A91-882A-48D0B35EF26E}|LMControleEstoque\\LMControleEstoque.csproj|solutionrelative:lmcontroleestoque\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08200C6-D7B2-4A91-882A-48D0B35EF26E}|LMControleEstoque\\LMControleEstoque.csproj|d:\\users\\luizm\\documents\\pendrive\\projetos\\c#\\lmcontroleestoque\\lmcontroleestoque\\views\\produto\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F08200C6-D7B2-4A91-882A-48D0B35EF26E}|LMControleEstoque\\LMControleEstoque.csproj|solutionrelative:lmcontroleestoque\\views\\produto\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08200C6-D7B2-4A91-882A-48D0B35EF26E}|LMControleEstoque\\LMControleEstoque.csproj|d:\\users\\luizm\\documents\\pendrive\\projetos\\c#\\lmcontroleestoque\\lmcontroleestoque\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08200C6-D7B2-4A91-882A-48D0B35EF26E}|LMControleEstoque\\LMControleEstoque.csproj|solutionrelative:lmcontroleestoque\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Users\\luizm\\Documents\\PENDRIVE\\projetos\\C#\\LMControleEstoque\\LMControleEstoque\\Views\\Produto\\Index.cshtml",
+              "RelativeDocumentMoniker": "LMControleEstoque\\Views\\Produto\\Index.cshtml",
+              "ToolTip": "D:\\Users\\luizm\\Documents\\PENDRIVE\\projetos\\C#\\LMControleEstoque\\LMControleEstoque\\Views\\Produto\\Index.cshtml",
+              "RelativeToolTip": "LMControleEstoque\\Views\\Produto\\Index.cshtml",
+              "ViewState": "AQIAACgAAAAAAAAAAAAwwE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T23:14:00.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProdutoController.cs",
+              "DocumentMoniker": "D:\\Users\\luizm\\Documents\\PENDRIVE\\projetos\\C#\\LMControleEstoque\\LMControleEstoque\\Controllers\\ProdutoController.cs",
+              "RelativeDocumentMoniker": "LMControleEstoque\\Controllers\\ProdutoController.cs",
+              "ToolTip": "D:\\Users\\luizm\\Documents\\PENDRIVE\\projetos\\C#\\LMControleEstoque\\LMControleEstoque\\Controllers\\ProdutoController.cs",
+              "RelativeToolTip": "LMControleEstoque\\Controllers\\ProdutoController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAwwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T22:50:07.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "site.js",
+              "DocumentMoniker": "D:\\Users\\luizm\\Documents\\PENDRIVE\\projetos\\C#\\LMControleEstoque\\LMControleEstoque\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "LMControleEstoque\\wwwroot\\js\\site.js",
+              "ToolTip": "D:\\Users\\luizm\\Documents\\PENDRIVE\\projetos\\C#\\LMControleEstoque\\LMControleEstoque\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "LMControleEstoque\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-13T22:31:54.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Users\\luizm\\Documents\\PENDRIVE\\projetos\\C#\\LMControleEstoque\\LMControleEstoque\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LMControleEstoque\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Users\\luizm\\Documents\\PENDRIVE\\projetos\\C#\\LMControleEstoque\\LMControleEstoque\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LMControleEstoque\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAwwCkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T20:51:17.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Users\\luizm\\Documents\\PENDRIVE\\projetos\\C#\\LMControleEstoque\\LMControleEstoque\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LMControleEstoque\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Users\\luizm\\Documents\\PENDRIVE\\projetos\\C#\\LMControleEstoque\\LMControleEstoque\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LMControleEstoque\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T20:45:17.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "D:\\Users\\luizm\\Documents\\PENDRIVE\\projetos\\C#\\LMControleEstoque\\LMControleEstoque\\Views\\Produto\\Editar.cshtml",
+              "RelativeDocumentMoniker": "LMControleEstoque\\Views\\Produto\\Editar.cshtml",
+              "ToolTip": "D:\\Users\\luizm\\Documents\\PENDRIVE\\projetos\\C#\\LMControleEstoque\\LMControleEstoque\\Views\\Produto\\Editar.cshtml",
+              "RelativeToolTip": "LMControleEstoque\\Views\\Produto\\Editar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T21:37:18.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Excluir.cshtml",
+              "DocumentMoniker": "D:\\Users\\luizm\\Documents\\PENDRIVE\\projetos\\C#\\LMControleEstoque\\LMControleEstoque\\Views\\Produto\\Excluir.cshtml",
+              "RelativeDocumentMoniker": "LMControleEstoque\\Views\\Produto\\Excluir.cshtml",
+              "ToolTip": "D:\\Users\\luizm\\Documents\\PENDRIVE\\projetos\\C#\\LMControleEstoque\\LMControleEstoque\\Views\\Produto\\Excluir.cshtml",
+              "RelativeToolTip": "LMControleEstoque\\Views\\Produto\\Excluir.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T21:38:39.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Criar.cshtml",
+              "DocumentMoniker": "D:\\Users\\luizm\\Documents\\PENDRIVE\\projetos\\C#\\LMControleEstoque\\LMControleEstoque\\Views\\Produto\\Criar.cshtml",
+              "RelativeDocumentMoniker": "LMControleEstoque\\Views\\Produto\\Criar.cshtml",
+              "ToolTip": "D:\\Users\\luizm\\Documents\\PENDRIVE\\projetos\\C#\\LMControleEstoque\\LMControleEstoque\\Views\\Produto\\Criar.cshtml",
+              "RelativeToolTip": "LMControleEstoque\\Views\\Produto\\Criar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T20:39:55.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "D:\\Users\\luizm\\Documents\\PENDRIVE\\projetos\\C#\\LMControleEstoque\\LMControleEstoque\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "LMControleEstoque\\Models\\Produto.cs",
+              "ToolTip": "D:\\Users\\luizm\\Documents\\PENDRIVE\\projetos\\C#\\LMControleEstoque\\LMControleEstoque\\Models\\Produto.cs",
+              "RelativeToolTip": "LMControleEstoque\\Models\\Produto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T20:19:19.606Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

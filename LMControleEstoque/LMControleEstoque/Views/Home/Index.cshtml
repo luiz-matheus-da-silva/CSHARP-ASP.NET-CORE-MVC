@@ -1,0 +1,52 @@
+﻿@{
+    ViewData["Title"] = "Página Inicial";
+}
+@model List<LMControleEstoque.Models.Produto>
+
+<div class="container-fluid">
+    <div class="text-center">
+        <h1 class="display-4">Bem Vindo(a) Admin!</h1>
+    </div>
+    <div class="container mt-5">
+        <div class="row justify-content-center">
+            <div class="col-lg-4 col-md-6">
+                <div class="card mb-4">
+                    <div class="card-header bg-info text-white text-uppercase fw-bold">
+                        Quantidade de Produtos em Estoque
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title">@ViewData["QuantidadeProdutos"]</h5>
+                        <p class="card-text">Total de produtos em estoque.</p>
+                        <a role="button" asp-action="Index" asp-controller="Produto" class="btn btn-primary">Ver Detalhes</a>
+                    </div>
+                </div>
+            </div>
+    
+            <div class="col-lg-4 col-md-6">
+                <div class="card mb-4">
+                    <div class="card-header bg-warning text-white text-uppercase fw-bold">
+                        Estoque Mínimo
+                    </div>
+                    <div class="card-body">
+                        @if (Model.Any())
+                        {
+                            @foreach (var produto in Model)
+                            {
+                                <div class="card-body">
+                                    <h5 class="card-title">@produto.Nome</h5>
+                                    <p class="card-text">Quantidade em estoque: @produto.QuantidadeEstoque</p>
+                                    <a role="button" asp-action="Index" asp-controller="Produto" class="btn btn-primary">Ver Detalhes</a>
+                                </div>
+                            }
+                        }
+                        else
+                        {
+                            <p>Não há produtos com menos de 5 unidades em estoque.</p>
+                            <a role="button" asp-action="Index" asp-controller="Produto" class="btn btn-primary">Ver Detalhes</a>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
